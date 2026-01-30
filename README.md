@@ -147,18 +147,18 @@ Revenue by Product Category
 
 2️⃣ Product Performance Analysis
 
-Top 10 SKUs by Revenue
-Bottom 10 SKUs by Profit
-Quantity vs Profit Scatter Plot
+Top 10 SKUs by Revenue,
+Bottom 10 SKUs by Profit, 
+Quantity vs Profit Scatter Plot, 
 Product Category vs SKU Performance Table
 
 3️⃣ Customer Analytics
 
-Total Customers
-Revenue by Customer Type
-Customer Type Distribution
-Top 10 Customers by Revenue
-Region Distribution by Customer Count
+Total Customers, 
+Revenue by Customer Type, 
+Customer Type Distribution, 
+Top 10 Customers by Revenue, 
+Region Distribution by Customer Count, 
 Region Distribution by Revenue
 
 
