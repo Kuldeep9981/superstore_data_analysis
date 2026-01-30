@@ -136,13 +136,13 @@ The dashboard contains three main pages:
 1️⃣ Ecommerce Sales Overview
 
 Total Revenue
-Total Profit
-Profit Margin %
-Total Orders
-Total Quantity
-Monthly Revenue Trend
-Revenue by Platform
-Profit by Platform
+Total Profit,
+Profit Margin %,
+Total Orders,
+Total Quantity,
+Monthly Revenue Trend,
+Revenue by Platform,
+Profit by Platform,
 Revenue by Product Category
 
 2️⃣ Product Performance Analysis
